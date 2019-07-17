@@ -15,7 +15,7 @@ class ApplicationController < ActionController::Base
   end
 
   def m6
-
+    "sdfsdf"
   end
 
   def m7
