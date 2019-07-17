@@ -8,10 +8,21 @@ class ApplicationController < ActionController::Base
   end
 
   def m3
-
   end
 
   def m4
-    
+    "asdsdfff"
+  end
+
+  def m6
+
+  end
+
+  def m7
+    "asdds"
+  end
+
+  def m8
+    "sdsdf"
   end
 end
